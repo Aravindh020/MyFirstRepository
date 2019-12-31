@@ -1,1 +1,2 @@
 # MyFirstRepository
+Hello Sugar Labs
